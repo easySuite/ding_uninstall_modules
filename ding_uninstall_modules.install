@@ -21,6 +21,8 @@ function ding_uninstall_modules_enable() {
     'ding_item_viewer',
     'ding_user_header',
     'easyddb_alma_reminder',
+    'easyddb_editorial_dashboard_comments',
+    'easyddb_editorial_dashboard_notification',
     'easyddb_editorial_dashboard',
     'alma_reminder_service',
   );
