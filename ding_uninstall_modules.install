@@ -15,7 +15,7 @@ function ding_uninstall_modules_enable() {
     'easyddb_materials_display',
     'easyddb_search_expand',
     'vejlebib_fbs',
-    'ting_marc',
+    'ting_field_search',
     'ding_item_viewer',
     'ding_user_header',
     'easyddb_alma_reminder',
