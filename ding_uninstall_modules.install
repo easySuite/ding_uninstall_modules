@@ -23,6 +23,7 @@ function ding_uninstall_modules_enable() {
     'easyddb_editorial_dashboard_notification',
     'easyddb_editorial_dashboard',
     'alma_reminder_service',
+    'thisted_event_import',
   );
 
   module_disable($stale_modules, FALSE);
