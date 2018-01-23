@@ -2,3 +2,4 @@ name = Ding Uninstall Stale Modules
 description = Uninstall modules that are not relevant in 4.x version.
 package = Ding!
 core = 7.x
+version = 7.x-4.0.2
