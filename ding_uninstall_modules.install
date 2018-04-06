@@ -13,7 +13,6 @@ function ding_uninstall_modules_enable() {
     'easyddb_hide_librarydropdown',
     'easyddb_legend',
     'easyddb_materials_display',
-    'easyddb_search_expand',
     'vejlebib_fbs',
     'ting_field_search',
     'ding_item_viewer',
